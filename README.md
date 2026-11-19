@@ -4,7 +4,10 @@
 
 ## 下载游玩（Windows）
 
-1. 打开右侧 **Releases** 页面，下载最新版本里的 `山海归途_Windows版.zip`
+1. 下载最新版本里的 `ShanHaiGuiTu_Windows_v1.0.0.zip`（约 110MB，在 Releases 页面的 Assets 里）
+
+   直链：https://github.com/spikexintai/shanhai-guitu/releases/download/v1.0.0/ShanHaiGuiTu_Windows_v1.0.0.zip
+
 2. 解压到任意目录（**建议不要放在中文路径或带空格的路径下**，例如 `D:\Game\ShanHai`）
 3. 进入 `山海归途_Windows版` 文件夹，双击 `山海归途.exe` 即可开始游戏
 
